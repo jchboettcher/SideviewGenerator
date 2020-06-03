@@ -8,6 +8,8 @@ The main program resides in the file sideview_generator.pde and this is where yo
 
 NOTES AND WARNINGS:
 
+Double click the display screen to toggle/rotate between the two word-views. Drag the mouse around to view from any angle.
+
 As stated above, the program will not work unless the words are first initialized in the get_points_from_font.pde program, with the desired font.
 
 Add custom fonts to the customFonts folder, Processing only accepts .ttf and .otf files.
